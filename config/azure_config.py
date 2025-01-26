@@ -1,7 +1,7 @@
 from openai import AzureOpenAI
 
-AZURE_OPENAI_ENDPOINT = "https://openaibrdev-sc.openai.azure.com"
-AZURE_OPENAI_API_KEY = "1SsseBj50Rttfc7ycrpz7l6MHKEEHetUVh54dLbTuUWHo6Gk8ejaJQQJ99AKACfhMk5XJ3w3AAABACOGh1dq"
+AZURE_OPENAI_ENDPOINT = ""
+AZURE_OPENAI_API_KEY = ""
 
 # Initialize AzureOpenAI client
 client = AzureOpenAI(
